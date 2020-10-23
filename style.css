@@ -1,0 +1,36 @@
+body{ 
+background-color: rgb(235, 225, 225);
+}
+
+.container{
+    background-color: white;
+    margin: 14px;
+    
+}
+
+.about-me{
+    font-family: 'Alfa Slab One', cursive;
+    color: teal;  
+    margin: 25px;
+    
+}
+
+
+.navbar.navbar-light .navbar-brand{
+    background-color:teal;
+    color: white;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 2rem;
+    
+}
+
+
+.image{
+    float: left;
+    margin-right: 10px ;
+    margin-bottom: 5px;
+}
+
+.row{
+align-content: center;
+}
