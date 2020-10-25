@@ -9,7 +9,15 @@ background-color: rgb(235, 225, 225);
     border-spacing: 15px;
     
 }
-.about-me{
+
+.containerp{
+    background-color: white;
+    margin-top: 10px;
+    text-align: center;
+    border-spacing: 15px;
+}
+    
+.h1{
     font-family: 'Alfa Slab One', cursive;
     color: teal;  
     margin: 25px;
@@ -17,6 +25,7 @@ background-color: rgb(235, 225, 225);
 }
 .navbar-nav{
     font-family: 'Alfa Slab One', cursive;
+    
 }
 
 
@@ -28,12 +37,33 @@ background-color: rgb(235, 225, 225);
     
 }
 
+
 .image{
     float: left;
     margin-right: 10px ;
     margin-bottom: 5px;
 }
 
+.image{
+    float: left;
+    margin-right: 10px ;
+    margin-bottom: 5px;
+}
+
+
+
 .row{
 border-bottom: 10px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+footer h2 {
+    font-size: 20px;
 }
