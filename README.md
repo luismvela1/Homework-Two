@@ -1,4 +1,4 @@
-# Homework-Two
+# portfolio-website
 Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 This project consisted of making a portfolio website using bootstrap. i started from scratch, from there i started to build a responsive website consisting of three pages, index.html, contact.html and portfolio.html. from the i added the bootstrap .css file and the javascript file from the bootstrap website. one i was done adding those liks, i added my own .ccs file named style.css that overides some of those css parameters that are set in the bootstrap .css file. I proceeded to add a nav bar in the body of the html text. i modified the nav bar so it would fit my specific parameters. from there i proceeded to add containers and row and colums to the text to seperate tumbnails from the main text. i added two paragraphs about me and also added a footer. 
