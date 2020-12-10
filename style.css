@@ -21,8 +21,24 @@ background-color: rgb(235, 225, 225);
     font-family: 'Alfa Slab One', cursive;
     color: teal;  
     margin: 25px;
-    
 }
+ .h3 {
+    font-family: 'Alfa Slab One', cursive;
+    color: teal;  
+     margin: 25px; 
+ }
+
+.resume{
+font-size: 20px;
+}
+
+ a {
+    font-family: 'Alfa Slab One', cursive;
+    color: teal;  
+    margin: 25px;
+}
+
+
 .navbar-nav{
     font-family: 'Alfa Slab One', cursive;
     
@@ -37,17 +53,39 @@ background-color: rgb(235, 225, 225);
     
 }
 
-
-.image{
+.food{
     float: left;
-    margin-right: 10px ;
-    margin-bottom: 5px;
+    margin: 100px;
+    border: solid;
+}
+ 
+.pass{
+    float: left;
+    margin: 100px;
+    border: solid;
+}
+
+.work{
+    float: right;
+    margin: 100px;
+    border: solid;
+}
+
+.home{
+    float: right;
+    margin: 100px;
+    border: solid;
+}
+
+.left{
+    margin: 20px;
 }
 
 .image{
     float: left;
     margin-right: 10px ;
     margin-bottom: 5px;
+    border-radius: 20px;
 }
 
 
